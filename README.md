@@ -8,9 +8,9 @@ maxexee = {
   'age':21,
   'nationality':['Mexican', 'Made in Mexico'],
   'hobbies':['Chess', 'Read', 'MMA'],
-  'goals':'Become a dev/analyst malware and yes... Work for a big security company',
+  'goals':'Become a Malware Analyst/Dev and yes... Work for a big security company',
   'code': ['Python', 'C'],
   'tools_code_for_now':'Django'
-}
+}1
 
 ```
