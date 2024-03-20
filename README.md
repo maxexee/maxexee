@@ -1,9 +1,10 @@
 # Hi there 👋
+### A little about Max
 <Container>
   <div>
-    <h2>
+    <!-- <h2>
       A little about Max
-    </h2>
+    </h2> -->
   </div>
   <div>
     <div align="right">
