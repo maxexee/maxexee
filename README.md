@@ -10,8 +10,11 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/El%20Suburban-white?style=flat&logo=X&logoColor=%23FFFFFF&labelColor=%23000000&color=%23FFFFFF&cacheSeconds=15&link=https%3A%2F%2Ftwitter.com%2FelSuburban">
   </div>
 </div>
+<!-- ------------------------------------------------------------------------------------------------------------- -->
 
-# Acerca de mi  / About me.
+<!-- ------------------------------------------------------------------------------------------------------------- -->
+<!-- ABOUT ME -->
+# About me.
 <picture>
   <img align="right" alt="gif" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXgwaWVqZGk0cW9qbjdnOWFzdXhvZzI3aGFtbnEyZWExN3RjOTdmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Zgy9QqzWU8C3ugvCa/giphy.gif">
 </picture>
@@ -33,5 +36,16 @@
 - Since high school I have been interested in electricity, and maybe my first business will be related to that 
   (if everything goes well).
 
+- I would like to write this in Spanish, but being honest, English the universal language and all the people use it.
+
+- A few years ago I was hopping to move to a first world country, but once I grew up, I realize that Mexico really is the opportunities country and **here** is where my people are, sooo...
+
+
+### ¡¡Viva México, cabrones!!
+### ¡¡No te rajes Guanajuato!!
+
 <!-- ------------------------------------------------------------------------------------------------------------- -->
+
 <!-- ------------------------------------------------------------------------------------------------------------- -->
+<!-- TOOLS -->
+### :hammer_and_wrench: Languages and Tools :
