@@ -38,7 +38,7 @@
 
 - I would like to write this in Spanish, but being honest, English the universal language and all the people use it.
 
-- A few years ago I was hopping to move to a first world country, but once I grew up, I realize that Mexico really is the opportunities country and **here** is where my people are, sooo...
+- A few years ago I was hopping to move to a first world country, but once I grew up, I realize that **Mexico** really is the opportunities country and **here** is where my people are, sooo...
 
 
 ### ¡¡Viva México, cabrones!!
@@ -50,3 +50,10 @@
 <!-- TOOLS -->
 # :hammer_and_wrench: Languages and Tools :
 
+<div>
+  <image src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linus Icon" alt="Linus Icon" width="40" heigh="40"/>nbsp;
+  <image src="" title="" alt="" width="" heigh=""/>nbsp;
+  <image src="" title="" alt="" width="" heigh=""/>nbsp;
+  <image src="" title="" alt="" width="" heigh=""/>nbsp;
+  <image src="" title="" alt="" width="" heigh=""/>nbsp;
+</div>
