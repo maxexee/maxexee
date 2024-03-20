@@ -5,7 +5,6 @@
       A little about Max
     </h2>
   </div>
-  A little about Max
   <div>
     <div align="right">
       <picture>
