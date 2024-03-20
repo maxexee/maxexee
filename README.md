@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Hola%20Hi&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Hola%20a%20todos-n1-Hi%20everyone&fontSize=90)
 
 
 <!-- <Container>
