@@ -2,35 +2,9 @@
 ### A little about Max
 <Container>
   <div>
-    <div>
+    <div  style: backgroundcolor: blue>
       <p>
-        adjnasjdjasndoansdjsandjaifefdsmmndvnñdvnifnifnifvbfbvbifs
-        adjnasjdjasndoansdjsandjaifefdsmmndvnñdvnifnifnifvbfbvbifs
-        adjnasjdjasndoansdjsandjaifefdsmmndvnñdvnifnifnifvbfbvbifs
-        adjnasjdjasndoansdjsandjaifefdsmmndvnñdvnifnifnifvbfbvbifs
-        adjnasjdjasndoansdjsandjaifefdsmmndvnñdvnifnifnifvbfbvbifs
-        adjnasjdjasndoansdjsandjaifefdsmmndvnñdvnifnifnifvbfbvbifs
-        adjnasjdjasndoansdjsandjaifefdsmmndvnñdvnifnifnifvbfbvbifs
-        adjnasjdjasndoansdjsandjaifefdsmmndvnñdvnifnifnifvbfbvbifs
-        adjnasjdjasndoansdjsandjaifefdsmmndvnñdvnifnifnifvbfbvbifs
-        adjnasjdjasndoansdjsandjaifefdsmmndvnñdvnifnifnifvbfbvbifs
-        adjnasjdjasndoansdjsandjaifefdsmmndvnñdvnifnifnifvbfbvbifs
-        adjnasjdjasndoansdjsandjaifefdsmmndvnñdvnifnifnifvbfbvbifs
-        adjnasjdjasndoansdjsandjaifefdsmmndvnñdvnifnifnifvbfbvbifs
-        adjnasjdjasndoansdjsandjaifefdsmmndvnñdvnifnifnifvbfbvbifs
-        adjnasjdjasndoansdjsandjaifefdsmmndvnñdvnifnifnifvbfbvbifs
-        adjnasjdjasndoansdjsandjaifefdsmmndvnñdvnifnifnifvbfbvbifs
-        adjnasjdjasndoansdjsandjaifefdsmmndvnñdvnifnifnifvbfbvbifs
-        adjnasjdjasndoansdjsandjaifefdsmmndvnñdvnifnifnifvbfbvbifs
-        adjnasjdjasndoansdjsandjaifefdsmmndvnñdvnifnifnifvbfbvbifs
-        adjnasjdjasndoansdjsandjaifefdsmmndvnñdvnifnifnifvbfbvbifs
-        adjnasjdjasndoansdjsandjaifefdsmmndvnñdvnifnifnifvbfbvbifs
-        adjnasjdjasndoansdjsandjaifefdsmmndvnñdvnifnifnifvbfbvbifs
-        adjnasjdjasndoansdjsandjaifefdsmmndvnñdvnifnifnifvbfbvbifs
-        adjnasjdjasndoansdjsandjaifefdsmmndvnñdvnifnifnifvbfbvbifs
-        adjnasjdjasndoansdjsandjaifefdsmmndvnñdvnifnifnifvbfbvbifs
-        adjnasjdjasndoansdjsandjaifefdsmmndvnñdvnifnifnifvbfbvbifs
-        adjnasjdjasndoansdjsandjaifefdsmmndvnñdvnifnifnifvbfbvbifs
+        s
       </p>
       <div align="right">
         <picture>
