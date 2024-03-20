@@ -4,7 +4,7 @@
   </div>
   <div id="badges">
     <img src="https://img.shields.io/badge/-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=X" alt="X Badge"/>
+    <img alt="Static Badge" src="https://img.shields.io/badge/El%20Suburban-white?style=flat&logo=X&logoColor=%23FFFFFF&labelColor=%23000000&color=%23FFFFFF&cacheSeconds=15&link=https%3A%2F%2Ftwitter.com%2FelSuburban">
   </div>
 </div>
 
