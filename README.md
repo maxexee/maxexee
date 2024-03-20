@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img  scr="maxexee/src/gifts/tux-code.gif" width="100">
+  <img  scr="maxexee/src/gifts/tux-code.gif" width="100" heigh="100">
 </div>
 
 <div id="header" align="center">
