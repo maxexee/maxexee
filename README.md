@@ -36,6 +36,8 @@
 - Since high school I have been interested in electricity, and maybe my first business will be related to that 
   (if everything goes well).
 
+- I prefer Back-end over Front-end, **HAIL** Server side!
+
 - I would like to write this in Spanish, but being honest, English the universal language and all the people use it.
 
 - A few years ago I was hopping to move to a first world country, but once I grew up, I realize that **Mexico** really is the opportunities country and **here** is where my people are, sooo...
@@ -59,3 +61,9 @@
   <image src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C# Icon" alt="C# Icon" width="40" heigh="40"/>
   <image src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C Icon" alt="C Icon" width="40" heigh="40"/>
 </div>
+<!-- ------------------------------------------------------------------------------------------------------------- -->
+
+<!-- ------------------------------------------------------------------------------------------------------------- -->
+<!-- STATS -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
