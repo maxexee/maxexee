@@ -50,7 +50,7 @@
 
 <!-- ------------------------------------------------------------------------------------------------------------- -->
 <!-- TOOLS -->
-# :hammer_and_wrench: Languages and Tools :
+# :hammer_and_wrench: Languages and Tools
 
 <div>
   <image src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linus Icon" alt="Linus Icon" width="40" heigh="40"/>
@@ -65,5 +65,6 @@
 
 <!-- ------------------------------------------------------------------------------------------------------------- -->
 <!-- STATS -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+# My GitHub History
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Max)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Max)](https://github.com/Max/github-readme-stats)
