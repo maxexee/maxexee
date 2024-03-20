@@ -52,8 +52,10 @@
 
 <div>
   <image src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linus Icon" alt="Linus Icon" width="40" heigh="40"/>nbsp;
-  <image src="" title="" alt="" width="" heigh=""/>nbsp;
-  <image src="" title="" alt="" width="" heigh=""/>nbsp;
-  <image src="" title="" alt="" width="" heigh=""/>nbsp;
-  <image src="" title="" alt="" width="" heigh=""/>nbsp;
+  <image src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git Icon" alt="Git Icon" width="40" heigh="40"/>nbsp;
+  <image src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub Icon" alt="GitHub Icon" width="40" heigh="40"/>nbsp;
+  <image src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache Icon" alt="Apache Icon" width="40" heigh="40"/>nbsp;
+  <image src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python Icon" alt="Python Icon" width="40" heigh="40"/>nbsp;
+  <image src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C# Icon" alt="C# Icon" width="40" heigh="40"/>nbsp;
+  <image src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C Icon" alt="C Icon" width="40" heigh="40"/>nbsp;
 </div>
