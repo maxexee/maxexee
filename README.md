@@ -66,5 +66,4 @@
 <!-- ------------------------------------------------------------------------------------------------------------- -->
 <!-- STATS -->
 # My GitHub History
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Max)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Max)](https://github.com/Max/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxexee)](https://github.com/maxexee/github-readme-stats)
