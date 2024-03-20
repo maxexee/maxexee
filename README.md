@@ -6,6 +6,9 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Max%20Ruiz-Blue?style=flat&logo=LinkedIn&logoColor=%23FFFFFF&labelColor=rgb(0%2C%20141%2C%20218)&color=%23FFFFFF&cacheSeconds=15&link=https%3A%2F%2Ftwitter.com%2FelSuburban">
     <img alt="Static Badge" src="https://img.shields.io/badge/El%20Suburban-white?style=flat&logo=X&logoColor=%23FFFFFF&labelColor=%23000000&color=%23FFFFFF&cacheSeconds=15&link=https%3A%2F%2Ftwitter.com%2FelSuburban">
   </div>
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  </div>
 </div>
 
 <!-- <Container>
