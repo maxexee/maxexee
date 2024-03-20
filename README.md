@@ -1,6 +1,11 @@
 # Hi there 👋
-## A little about Max
 <Container>
+  <div>
+    <h2>
+      A little about Max
+    </h2>
+  </div>
+  A little about Max
   <div>
     <div align="right">
       <picture>
