@@ -3,8 +3,8 @@
     <image src= "https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Hola%20a%20todos-nl-Hi%20everyone&fontSize=90"/>
   </div>
   <div id="badges">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    <img src="https://img.shields.io/badge/?style=for-the-badge&logo=X" alt="X Badge"/>
+    <img src="https://img.shields.io/badge/-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=X" alt="X Badge"/>
   </div>
 </div>
 
