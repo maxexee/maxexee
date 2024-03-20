@@ -65,5 +65,5 @@
 
 <!-- ------------------------------------------------------------------------------------------------------------- -->
 <!-- STATS -->
-# My GitHub History
+# :fire: My GitHub History
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxexee)](https://github.com/maxexee/github-readme-stats)
