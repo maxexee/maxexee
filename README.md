@@ -19,29 +19,35 @@
 </picture>
 
 - Originario de la capital mundial de las fresas, Irapuato, Gto, México.
-- Originally from the strawberry capital of the world, Irapuato, Gto, Mexico.
+
+  Originally from the strawberry capital of the world, Irapuato, Gto, Mexico.
 
 - Fiel seguidor de **GNU/Linux**, ya que mi corazón y dos de mis tres computadores le pertences al 100%.
   Sin embargo, algunas veces es necesrio usar Sistemas Operativos privados.
-- **GNU/Linux's** follower, my heart and two of my three computers belong to it 100%
+
+  **GNU/Linux's** follower, my heart and two of my three computers belong to it 100%
 
 - De igual forma, si por mi fuera, quisiera que todos los proyectos que he desarrollado y desarrollaré
   fueran gratuitos y/o Open Source, pero nada en esta vida es gratis y algunas veces se tiene que mantener
   privado y bajo licencia el software. ¡Las cuentas **NO** se pagan solas!
-- Likewise, if it were up to me, I would like all the projects I have developed and will develop to be 
+
+  Likewise, if it were up to me, I would like all the projects I have developed and will develop to be 
   free and/or Open Source, but nothing in this life is free and sometimes you have to keep the software 
   private and under license. The bills **NOT** pay for themselves!
 
 - Apasionado por la seguridad informática, pero ahora es más un hobbie.
-- Passionate about computer security, but now it's more like a hobby.
+
+  Passionate about computer security, but now it's more like a hobby.
 
 - Aprender **ajedrez** te abrirá la mente, te hará ver más variantes en todo los aspectos de la vida.
   Entre más información mejores decisiones (Ya no soy bueno como en la universidad, pero vaya que ayuda).
-- Learning **chess** will open your mind, it will make you see more variants in all aspects of life.
+  
+  Learning **chess** will open your mind, it will make you see more variants in all aspects of life.
   The more information the better decisions (I'm not as good as I was in college, but it helps).
 
 - Desde la prepa me intereso la electricidad, y quizás mi primer negocio se relacione con eso (si todo sale bien).
-- Since high school I have been interested in electricity, and maybe my first business will be related to that 
+  
+  Since high school I have been interested in electricity, and maybe my first business will be related to that 
   (if everything goes well).
 
 <!-- ------------------------------------------------------------------------------------------------------------- -->
