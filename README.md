@@ -2,14 +2,14 @@
 <!-- HEADER -->
 <div align="center">
   <div>
-    <image src= "src/gifts/tux-code.gif"/>
+    <image src= "https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Hola%20a%20todos-nl-Hi%20everyone&fontSize=90"/>
   </div>
   <!-- SOCIAL MEDIA BOTTOMS -->
   <div id="badges">
-    <!-- <img alt="Static Badge" src="https://img.shields.io/badge/Max%20Ruiz-Blue?style=flat&logo=LinkedIn&logoColor=%23FFFFFF&labelColor=rgb(0%2C%20141%2C%20218)&color=%23FFFFFF&cacheSeconds=15">
-    <img alt="Static Badge" src="https://img.shields.io/badge/El%20Suburban-white?style=flat&logo=X&logoColor=%23FFFFFF&labelColor=%23000000&color=%23FFFFFF&cacheSeconds=15"> -->
-    <a src="https://www.linkedin.com/in/maximiliano-ruiz-manjarrez-74b931238/"><img alt="Static Badge" src="src/gifts/linkedin.svg">
-    <img alt="Static Badge" src="src/gifts/x.svg">
+    <p><a src="https://www.linkedin.com/in/maximiliano-ruiz-manjarrez-74b931238/">
+        <img alt="Static Badge" src="src/gifts/linkedin.svg">
+    </a></p>
+    <a src="https://twitter.com/elSuburban"><img alt="Static Badge" src="src/gifts/x.svg">
   </div>
 </div>
 <!-- ------------------------------------------------------------------------------------------------------------- -->
@@ -18,7 +18,7 @@
 <!-- ABOUT ME -->
 # About me.
 <picture>
-  <img align="right" alt="gif" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXgwaWVqZGk0cW9qbjdnOWFzdXhvZzI3aGFtbnEyZWExN3RjOTdmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Zgy9QqzWU8C3ugvCa/giphy.gif">
+  <img align="right" alt="gif" src="src/gifts/tux-code.gif">
 </picture>
 
 - Originally from the strawberry capital of the world, Irapuato, Gto, Mexico.
