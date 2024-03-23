@@ -2,13 +2,13 @@
 <!-- HEADER -->
 <div align="center">
   <div>
-    <image src= "https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Hola%20a%20todos-nl-Hi%20everyone&fontSize=90"/>
+    <image src= "src/gifts/tux-code.gif"/>
   </div>
   <!-- SOCIAL MEDIA BOTTOMS -->
   <div id="badges">
     <!-- <img alt="Static Badge" src="https://img.shields.io/badge/Max%20Ruiz-Blue?style=flat&logo=LinkedIn&logoColor=%23FFFFFF&labelColor=rgb(0%2C%20141%2C%20218)&color=%23FFFFFF&cacheSeconds=15">
     <img alt="Static Badge" src="https://img.shields.io/badge/El%20Suburban-white?style=flat&logo=X&logoColor=%23FFFFFF&labelColor=%23000000&color=%23FFFFFF&cacheSeconds=15"> -->
-    <img alt="Static Badge" src="src/gifts/linkedin.svg">
+    <a src="https://www.linkedin.com/in/maximiliano-ruiz-manjarrez-74b931238/"><img alt="Static Badge" src="src/gifts/linkedin.svg">
     <img alt="Static Badge" src="src/gifts/x.svg">
   </div>
 </div>
