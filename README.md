@@ -8,8 +8,8 @@
   <div id="badges">
     <!-- <img alt="Static Badge" src="https://img.shields.io/badge/Max%20Ruiz-Blue?style=flat&logo=LinkedIn&logoColor=%23FFFFFF&labelColor=rgb(0%2C%20141%2C%20218)&color=%23FFFFFF&cacheSeconds=15">
     <img alt="Static Badge" src="https://img.shields.io/badge/El%20Suburban-white?style=flat&logo=X&logoColor=%23FFFFFF&labelColor=%23000000&color=%23FFFFFF&cacheSeconds=15"> -->
-    <img alt="Static Badge" src="maxexee/src/gifts/linkedin.svg">
-    <img alt="Static Badge" src="maxexee/src/gifts/x.svg">
+    <img alt="Static Badge" src="src/gifts/linkedin.svg">
+    <img alt="Static Badge" src="src/gifts/x.svg">
   </div>
 </div>
 <!-- ------------------------------------------------------------------------------------------------------------- -->
