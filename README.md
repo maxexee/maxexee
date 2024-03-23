@@ -6,10 +6,8 @@
   </div>
   <!-- SOCIAL MEDIA BOTTOMS -->
   <div id="badges">
-    <p><a href="https://www.linkedin.com/in/maximiliano-ruiz-manjarrez-74b931238/">
-        <img alt="Static Badge" src="src/gifts/linkedin.svg">
-    </a></p>
-    <a src="https://twitter.com/elSuburban"><img alt="Static Badge" src="src/gifts/x.svg">
+    <a href="https://www.linkedin.com/in/maximiliano-ruiz-manjarrez-74b931238/"><img alt="Static Badge" src="src/gifts/linkedin.svg">
+    <a href="https://twitter.com/elSuburban"><img alt="Static Badge" src="src/gifts/x.svg">
   </div>
 </div>
 <!-- ------------------------------------------------------------------------------------------------------------- -->
